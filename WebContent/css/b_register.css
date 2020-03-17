@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body{
+    background:url("./image/19.jpg") no-repeat;
+}
+#box{
+	width:520px;
+	height:400px;
+	margin:200px auto;
+	border-radius:20px;
+	background-color: rgba(0, 0, 0, 0.3);
+	box-shadow:1px 2px 5px black;
+	padding: 1px;
+	position:relative;
+	background-image: url(./image/18.gif); 
+    opacity: 0.8;
+}
+#myform{
+	margin:30px;
+}
+span{
+	margin-left:100px;
+}
+.btn_{
+	color:tomato;
+	margin-top:30px;
+}
