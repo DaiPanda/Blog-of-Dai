@@ -1,6 +1,6 @@
 # Blog-of-Dai
 后端使用`Java`语言，服务器使用的是`Tomcat`、数据库使用的是`MySQL`，编辑器使用的`UEditor`，前端框架主要使用`LayUI`、`Bootstrap`，未使用后端框架。    
-***该后台管理系统有对应的知识点讲解博文，地址为：***[https://blog.csdn.net/DaiYuMeng/article/details/104677362(https://blog.csdn.net/DaiYuMeng/article/details/104677362)  
+***该后台管理系统有对应的知识点讲解博文，地址为：*** https://blog.csdn.net/DaiYuMeng/article/details/104677362(https://blog.csdn.net/DaiYuMeng/article/details/104677362
 ## 效果图如下：
 ### （1）登录模块
 ![登录模块](https://img-blog.csdnimg.cn/20191221140706579.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0RhaVl1TWVuZw==,size_16,color_FFFFFF,t_70)
